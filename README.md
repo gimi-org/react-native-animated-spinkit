@@ -1,4 +1,4 @@
-#Reasons for having this fork:
+# Reasons for having this fork:
 Original lib is stale for >3 years, thus to avoid co-dependency issues or anything alike we did not connect this lib to the repo and instead we gonna manually adopt
 an animated spinners of our liking (mainly our UX Jane, liking) to the App. Currently we encapsulated Wander spinner variant from the source code (WanderSpinner.tsx)
 
